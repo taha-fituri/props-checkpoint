@@ -1,0 +1,45 @@
+p {
+  line-height: 40px;
+}
+.App {
+  text-align: center;
+  font-size: larger;
+  background-color: rgb(240, 240, 240);
+}
+
+.carusal {
+  margin-top: 3.5%;
+}
+.Table {
+  margin: 2% 0 1% 0;
+}
+.cardsection {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 2%;
+}
+.formdiv {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.form {
+  width: 300px;
+}
+.mb-0 {
+  margin: 4%;
+  justify-content: center;
+}
+.footer1 {
+  margin-top: 3%;
+}
+.prop1 {
+  display: flex;
+  align-items: center;
+}
+.discounts {
+  font-size: large;
+  font-style: oblique;
+}
